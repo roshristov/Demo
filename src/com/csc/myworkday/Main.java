@@ -7,7 +7,7 @@ public class Main extends JFrame {
     System.out.println("hello, world!");
     Main mainFrame = new Main();
     //test
-    mainFrame.setBounds(100,100,600,300);
+    mainFrame.setBounds(100,100,1200,700);
     
     mainFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
     
